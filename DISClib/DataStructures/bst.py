@@ -191,7 +191,7 @@ def keySet(bst):
     except Exception as exp:
         error.reraise(exp, 'BST:KeySet')
 
-
+""
 def valueSet(bst):
     """
     Construye una lista con los valores de la tabla
